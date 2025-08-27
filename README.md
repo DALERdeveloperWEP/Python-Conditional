@@ -27,7 +27,7 @@ Chiqish: Ism kiritilmadi
 ### 🔹 **3. Bo'linuvchanlikni tekshirish**
 **Vazifa:** Foydalanuvchidan son kiritsini so'rang. Shu son:
 - 2 ga bo'linishini
-- 3 ga bo'linishini  
+- 3 ga bo'linishini
 - 5 ga bo'linishini
 
 alohida `if` lar bilan tekshiring va har bir holat uchun alohida xabar chiqaring.
