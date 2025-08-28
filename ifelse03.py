@@ -1,8 +1,8 @@
 import os
 
-filename = input("Fayl nomini kiriting: ")
+file_name = input("Fayl nomini kiriting: ")
 
-if os.path.exists(filename):
-    print(f"Fayl '{filename}' mavjud.")
+if os.path.exists(file_name):
+    print(f"Fayl '{file_name}' mavjud.")
 else:
-    print(f"Fayl '{filename}' topilmadi.")
+    print(f"Fayl '{file_name}' topilmadi.")
